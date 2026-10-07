@@ -6,7 +6,7 @@ permalink: /terminos/
 
 # Términos de uso de AuraView IPTV
 
-**Última actualización:** 6 de octubre de 2026
+**Última actualización:** 7 de octubre de 2026
 
 Al instalar y usar AuraView IPTV aceptas estos términos. Si no estás de acuerdo
 con ellos, desinstala la aplicación.
@@ -43,6 +43,10 @@ sitio lo que configuras.
 Si usas AuraView para acceder a contenido sin autorización, la responsabilidad es
 tuya.
 
+**AuraView no filtra ni revisa el contenido de tus listas.** Si una lista incluye
+contenido para adultos, es responsabilidad de quien la configura evitar que lo vea
+un menor. La aplicación no está dirigida a menores de edad.
+
 ## 4. Disponibilidad y funcionamiento
 
 AuraView depende por completo de fuentes que no controlamos. **No garantizamos**
@@ -69,12 +73,27 @@ No uses AuraView para:
 - Acceder a contenido para el que no tengas derecho.
 - Redistribuir o reemitir lo que reproduzcas.
 
-## 7. Cambios
+## 7. Licencia de uso
+
+Se te concede una licencia personal, no exclusiva e intransferible para instalar y
+usar AuraView en tus dispositivos. La aplicación y su diseño son del autor; esta
+licencia no te da derecho a venderla, redistribuirla ni a presentarla como tuya.
+
+## 8. Software de terceros
+
+AuraView incorpora software de código abierto con sus propias licencias, entre
+ellas el reproductor libVLC (LGPL 2.1) y componentes de Android y de Google
+(Apache 2.0). La lista completa y los textos de las licencias están en
+https://arturobernabeu.github.io/auraview-legal/licencias/ y se abren desde
+Ajustes → Licencias de código abierto. Nada de estos términos limita los derechos
+que esas licencias te dan sobre ese software.
+
+## 9. Cambios
 
 Estos términos pueden cambiar. La fecha de arriba indica la última revisión, y
 los cambios relevantes se avisarán dentro de la aplicación.
 
-## 8. Contacto y ley aplicable
+## 10. Contacto y ley aplicable
 
 Contacto: arturobernabeu.dev@gmail.com
 

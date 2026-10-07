@@ -10,5 +10,6 @@ ni distribuye contenido: tú aportas tus propias fuentes.
 
 - [Política de privacidad](privacidad/)
 - [Términos de uso](terminos/)
+- [Licencias de código abierto](licencias/)
 
 Contacto: arturobernabeu.dev@gmail.com

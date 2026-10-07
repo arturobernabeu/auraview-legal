@@ -6,7 +6,7 @@ permalink: /privacidad/
 
 # Política de privacidad de AuraView IPTV
 
-**Última actualización:** 6 de octubre de 2026
+**Última actualización:** 7 de octubre de 2026
 
 AuraView IPTV es un reproductor de listas IPTV. Esta política explica qué datos
 maneja la aplicación, dónde se guardan y con quién se comparten.
@@ -47,6 +47,11 @@ AuraView **no** recoge, transmite ni almacena fuera de tu dispositivo:
 **No existe ningún servidor de AuraView.** Aunque quisiéramos, no habría dónde
 enviar nada.
 
+**Lo que sí puede llegarme, y no depende de la aplicación.** Google Play puede
+darme, de forma agregada y anónima, estadísticas de instalaciones y de fallos de
+los usuarios que lo han permitido en su dispositivo. No incluyen tus listas, tus
+credenciales ni lo que ves.
+
 ## 4. Con quién se comunica la aplicación
 
 AuraView abre conexiones a **dos sitios**, y a ninguno más:
@@ -58,6 +63,13 @@ AuraView abre conexiones a **dos sitios**, y a ninguno más:
    de privacidad de tu proveedor, no por esta.
 2. **Los servidores de los logotipos de canal**, si tu lista incluye enlaces a
    imágenes. Cada uno ve tu dirección IP al descargarse el logotipo.
+
+Hay además unos pocos sitios a los que **tu navegador** —no la aplicación— se
+conecta cuando eliges abrirlos desde Ajustes: esta política, los términos de uso
+y las licencias de código abierto, alojados en GitHub Pages, y la ficha de la
+aplicación en Google Play. Esos sitios pueden registrar tu visita (por ejemplo,
+tu dirección IP) según su propia política. La aplicación no hace esas conexiones
+por su cuenta.
 
 ## 5. Tráfico sin cifrar
 
@@ -100,7 +112,7 @@ seguridad de Google.
 
 ## 9. Menores
 
-La aplicación no está dirigida a menores de 13 años y no recoge datos de nadie,
+La aplicación no está dirigida a menores de edad y no recoge datos de nadie,
 sea cual sea su edad.
 
 ## 10. Tus derechos
@@ -111,6 +123,10 @@ desinstálala** o borra sus datos desde los ajustes de Android: se elimina la ba
 de datos, las credenciales cifradas y las preferencias.
 
 Los datos que tenga tu proveedor de IPTV debes reclamárselos a él.
+
+Si aun así crees que se están tratando tus datos de forma indebida, puedes
+presentar una reclamación ante la Agencia Española de Protección de Datos
+(https://www.aepd.es).
 
 ## 11. Cambios en esta política
 
