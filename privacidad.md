@@ -61,6 +61,9 @@ AuraView abre conexiones a **dos sitios**, y a ninguno más:
    credenciales y qué canales reproduces, exactamente igual que con cualquier
    otro reproductor. **Esa relación es tuya con él**, y se rige por la política
    de privacidad de tu proveedor, no por esta.
+   Si activas **Sincronizar listas automáticamente** en Ajustes, la aplicación le
+   pedirá la lista y la guía una vez al día, **sin que la abras** y solo con
+   Wi-Fi. Viene desactivado.
 2. **Los servidores de los logotipos de canal**, si tu lista incluye enlaces a
    imágenes. Cada uno ve tu dirección IP al descargarse el logotipo.
 
