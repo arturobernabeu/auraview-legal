@@ -6,7 +6,7 @@ permalink: /privacidad/
 
 # Política de privacidad de AuraView IPTV
 
-**Última actualización:** 7 de octubre de 2026
+**Última actualización:** 20 de octubre de 2026
 
 AuraView IPTV es un reproductor de listas IPTV. Esta política explica qué datos
 maneja la aplicación, dónde se guardan y con quién se comparten.
@@ -93,7 +93,7 @@ La versión publicada solicita estos permisos y ningún otro:
 - **Servicio en primer plano** y **mantener despierto**: que la reproducción no
   se corte al apagarse la pantalla.
 - **Notificaciones**: mostrar los controles de reproducción mientras suena un
-  canal. Android 13 o superior te pide permiso al abrir un canal; si lo rechazas,
+  canal. Android 13 o superior te pide permiso cuando activas «Seguir reproduciendo al salir»; si lo rechazas,
   la reproducción funciona igual, sin esa notificación.
 
 No se piden permisos de almacenamiento: para elegir una lista guardada en tu
