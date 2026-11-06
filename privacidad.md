@@ -6,7 +6,7 @@ permalink: /privacidad/
 
 # Política de privacidad de AuraView IPTV
 
-**Última actualización:** 20 de octubre de 2026
+**Última actualización:** 6 de noviembre de 2026
 
 AuraView IPTV es un reproductor de listas IPTV. Esta política explica qué datos
 maneja la aplicación, dónde se guardan y con quién se comparten.
@@ -92,6 +92,11 @@ La versión publicada solicita estos permisos y ningún otro:
 - **Internet** y **estado de la red**: descargar tus listas y reproducir.
 - **Servicio en primer plano** y **mantener despierto**: que la reproducción no
   se corte al apagarse la pantalla.
+- **Red local** (en Android 17 y superior, «dispositivos cercanos»): conectarte a una lista o a un canal
+  que está en tu propia red, por ejemplo un servidor en casa con una dirección como `192.168.x.x`. Solo se pide
+  cuando guardas o sincronizas una lista con una dirección de ese tipo. Si lo rechazas, esa lista no se podrá
+  descargar; las demás funcionan igual. AuraView no busca ni escanea dispositivos de tu red: solo abre la
+  dirección que tú escribes.
 - **Notificaciones**: mostrar los controles de reproducción mientras suena un
   canal. Android 13 o superior te pide permiso cuando activas «Seguir reproduciendo al salir»; si lo rechazas,
   la reproducción funciona igual, sin esa notificación.
