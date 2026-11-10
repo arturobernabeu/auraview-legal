@@ -6,7 +6,7 @@ permalink: /privacidad/
 
 # Política de privacidad de AuraView IPTV
 
-**Última actualización:** 6 de noviembre de 2026
+**Última actualización:** 9 de noviembre de 2026
 
 AuraView IPTV es un reproductor de listas IPTV. Esta política explica qué datos
 maneja la aplicación, dónde se guardan y con quién se comparten.
@@ -31,6 +31,7 @@ Todo lo siguiente se almacena **únicamente en tu dispositivo**:
 | Direcciones de tus listas (URL M3U, portal Xtream o fichero local) | Descargar y sincronizar tus canales | Base de datos local de la aplicación |
 | Usuario y contraseña de tu portal Xtream | Conectarse a tu proveedor | **Cifrados** con una clave del almacén seguro de Android (`Keystore`), no en texto legible |
 | Canales, categorías y guía de programación | Enseñarte la lista y qué están dando | Base de datos local |
+| Catálogo de películas y series de tus listas Xtream, y por dónde vas en cada película o episodio (para reanudar y para «Continuar viendo») | Enseñarte el catálogo y dejarte seguir donde lo dejaste | Base de datos local, aparte de la de tus listas |
 | Tus favoritos y tus preferencias (tema, opciones de reproducción) | Recordar cómo quieres usar la aplicación | Base de datos local y preferencias |
 
 ## 3. Qué datos NO recoge la aplicación
@@ -57,15 +58,17 @@ credenciales ni lo que ves.
 AuraView abre conexiones a **dos sitios**, y a ninguno más:
 
 1. **Tu proveedor de IPTV**, el que tú configuras. La aplicación le pide la
-   lista, la guía y los propios canales. Ese proveedor ve tu dirección IP, tus
-   credenciales y qué canales reproduces, exactamente igual que con cualquier
+   lista, la guía, el catálogo de películas y series si es un portal Xtream, y los
+   propios canales, películas y episodios. Ese proveedor ve tu dirección IP, tus
+   credenciales y qué canales, películas o episodios reproduces, exactamente igual que con cualquier
    otro reproductor. **Esa relación es tuya con él**, y se rige por la política
    de privacidad de tu proveedor, no por esta.
    Si activas **Sincronizar listas automáticamente** en Ajustes, la aplicación le
    pedirá la lista y la guía una vez al día, **sin que la abras** y solo con
    Wi-Fi. Viene desactivado.
-2. **Los servidores de los logotipos de canal**, si tu lista incluye enlaces a
-   imágenes. Cada uno ve tu dirección IP al descargarse el logotipo.
+2. **Los servidores de los logotipos de canal y de las carátulas de películas y
+   series**, si tu lista incluye enlaces a imágenes. Cada uno ve tu dirección IP
+   al descargarse la imagen.
 
 Hay además unos pocos sitios a los que **tu navegador** —no la aplicación— se
 conecta cuando eliges abrirlos desde Ajustes: esta política, los términos de uso
@@ -108,8 +111,8 @@ tú elijas.
 ## 7. Contenido
 
 **AuraView no distribuye, aloja ni proporciona ningún canal ni contenido
-audiovisual.** Es un reproductor vacío: todo lo que se ve procede de las listas
-que tú aportas. La responsabilidad sobre la legalidad de esas fuentes es de quien
+audiovisual.** Es un reproductor vacío: todo lo que se ve —canales, películas y series
+incluidos— procede de las listas y los portales que tú aportas. La responsabilidad sobre la legalidad de esas fuentes es de quien
 las aporta y de quien las emite.
 
 ## 8. Copias de seguridad
