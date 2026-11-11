@@ -6,7 +6,7 @@ permalink: /licencias/
 
 # Licencias de código abierto de AuraView IPTV
 
-**Última actualización:** 7 de octubre de 2026
+**Última actualización:** 11 de noviembre de 2026
 
 AuraView IPTV se apoya en software libre de terceros. Esta página lo enumera, dice
 bajo qué licencia se usa cada pieza y dónde está su código fuente y el texto de su
@@ -41,6 +41,12 @@ texto está en https://www.apache.org/licenses/LICENSE-2.0
 | Guava | Utilidades de Google |
 | Accompanist (drawablepainter) | Pintar imágenes en Compose |
 | JetBrains annotations, JSpecify, javax.inject, jakarta.inject, JSR-305 | Anotaciones |
+
+## Iconos
+
+El icono de «Directo» procede de **Lucide** (https://lucide.dev), bajo la **licencia ISC**.
+Copyright (c) Lucide Contributors; partes, Cole Bemis (Feather, MIT). El texto de la licencia está en
+https://github.com/lucide-icons/lucide/blob/main/LICENSE. El resto de los iconos de la aplicación son propios.
 
 ## Tipografías
 
