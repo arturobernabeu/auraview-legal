@@ -6,7 +6,7 @@ permalink: /privacidad/
 
 # Política de privacidad de AuraView IPTV
 
-**Última actualización:** 9 de noviembre de 2026
+**Última actualización:** 16 de noviembre de 2026
 
 AuraView IPTV es un reproductor de listas IPTV. Esta política explica qué datos
 maneja la aplicación, dónde se guardan y con quién se comparten.
@@ -33,6 +33,7 @@ Todo lo siguiente se almacena **únicamente en tu dispositivo**:
 | Canales, categorías y guía de programación | Enseñarte la lista y qué están dando | Base de datos local |
 | Catálogo de películas y series de tus listas Xtream, y por dónde vas en cada película o episodio (para reanudar y para «Continuar viendo») | Enseñarte el catálogo y dejarte seguir donde lo dejaste | Base de datos local, aparte de la de tus listas |
 | Tus favoritos y tus preferencias (tema, opciones de reproducción) | Recordar cómo quieres usar la aplicación | Base de datos local y preferencias |
+| Los 20 últimos errores de la aplicación: cuándo, qué se hacía (sincronizar, guía, catálogo, reproducir) y su tipo, sin direcciones, nombres ni mensajes | Que puedas contar un problema con datos desde **Ajustes → Información de diagnóstico** | Preferencias. Se borran con **Borrar historial** y al borrar la lista |
 
 ## 3. Qué datos NO recoge la aplicación
 
@@ -40,7 +41,9 @@ AuraView **no** recoge, transmite ni almacena fuera de tu dispositivo:
 
 - Ninguna identidad tuya: no hay registro, ni cuenta, ni correo, ni teléfono.
 - Ninguna analítica de uso: qué canales ves, cuánto tiempo o cuándo.
-- Ningún informe de fallos ni telemetría.
+- Ningún informe de fallos ni telemetría. La **información de diagnóstico** de Ajustes
+  no se envía sola: la ves entera y solo sale si tú pulsas Copiar o Compartir y
+  eliges a dónde. No lleva direcciones, contraseñas ni nombres de listas o canales.
 - Ninguna publicidad ni identificador publicitario.
 - Ninguna ubicación, agenda, cámara, micrófono ni ficheros ajenos a los que tú
   elijas.
